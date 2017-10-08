@@ -5,7 +5,7 @@ Deep Dream is an experimental project by google, for visualising the layers with
 ![Demo](Gallery/demo.gif?raw=true)
 # Understanding the Convolution layers :
 Convolution is a mathematical operation performed over the images ( In Convolution Neural Networks ) and the convolution layers learns to extract features like edges , shapes within the image through back propagation . The layers looks something like the image below .
-![img](Gallery/convolution_layers.jpg)
+![img](Gallery/convolutional_layers.jpg)
 
 
 
